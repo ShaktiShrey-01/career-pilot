@@ -6,6 +6,7 @@ import { cn } from '@/lib/utils'
 export default function BackButton({
   to,
   label = 'Back',
+  fallbackTo = '/dashboard',
   className = '',
 }) {
   const navigate = useNavigate()
@@ -13,6 +14,11 @@ export default function BackButton({
   const handleClick = () => {
     if (to) {
       navigate(to)
+      return
+    }
+
+    if ((window.history.state?.idx ?? 0) <= 0) {
+      navigate(fallbackTo)
       return
     }
 
