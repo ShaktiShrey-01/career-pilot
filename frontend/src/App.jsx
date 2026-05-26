@@ -25,6 +25,7 @@ import JobSearch from './pages/JobSearch';
 import JobAlerts from './pages/JobAlerts';
 import ResumeBuilder from './pages/ResumeBuilder';
 import TextToResume from './pages/TextToResume';
+import LiquidMorphPortfolio from './pages/LiquidMorphPortfolio';
 import About from './components/portfolio/templates/Tech_Startup/About';
 import ChatbotPortfolio from "./components/portfolio/templates/Chatbot_Portfolio";
 
@@ -169,7 +170,12 @@ function AppRoutes() {
 
         {/* Template Gallery Route (Registered at /templates) */}
         <Route path="/templates" element={<TemplateGallery />} />
+<<<<<<< Updated upstream
         <Route path="/templates/chatbot" element={<ChatbotPortfolio />} />
+=======
+        <Route path="/templates/liquid-morph" element={<LiquidMorphPortfolio />} />
+
+>>>>>>> Stashed changes
         {/* Core Protected Routes */}
         <Route path="/dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
         <Route path="/upload" element={<ProtectedRoute><Upload /></ProtectedRoute>} />
