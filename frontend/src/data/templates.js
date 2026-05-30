@@ -1595,6 +1595,7 @@ export const templates = [
     "author": "System",
     "views": 1132,
     "rating": 4.5,
+    "isComplete": true,
     "image": "/template-previews/Pixel_Quest.png",
     "createdAt": "2026-05-01"
   },
