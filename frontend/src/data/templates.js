@@ -2176,12 +2176,13 @@ export const templates = [
     "title": "Twilight Horizon",
     "category": "Portfolio",
     "colorScheme": "Dark",
-    "layout": "Grid",
-    "author": "System",
-    "views": 1180,
-    "rating": 4.5,
+    "layout": "Interactive",
+    "author": "Vexx",
+    "views": 2750,
+    "rating": 4.9,
     "image": "/template-previews/Twilight_Horizon.png",
-    "createdAt": "2026-05-01"
+    "createdAt": "2026-05-31",
+    "isComplete": true
   },
   {
     "id": "Twitter_Profile",

@@ -14,6 +14,7 @@ import PsychedelicSwirl from "../components/portfolio/templates/Psychedelic_Swir
 import DesertDunes from "../components/portfolio/templates/Desert_Dunes/index";
 import MemphisPop from "../components/portfolio/templates/Memphis_Pop/index";
 import CassetteMixtape from "../components/portfolio/templates/Cassette_Mixtape/index";
+import TwilightHorizon from "../components/portfolio/templates/Twilight_Horizon/index";
 import Navbar from '../components/Navbar'
 import { X } from "lucide-react";
 import { useSearchParams } from "react-router-dom";
@@ -564,6 +565,20 @@ const [hoveredCard, setHoveredCard] = useState(null);
         <div className="rounded-2xl border border-orange-500/20"
           style={{ height: 640, overflowY: "auto", overflowX: "hidden", transform: "translate(0)", position: "relative" }}>
           <CassetteMixtape />
+        </div>
+      </div>
+
+      {/* Twilight Horizon — sandboxed fixed-nav frame */}
+      <div className="mt-12">
+        <div className="mb-4 flex items-center gap-3 px-1">
+          <span className="rounded-full bg-violet-900/30 px-3 py-1 text-xs font-bold uppercase tracking-widest text-violet-300 border border-violet-800/40">
+            ✦ Twilight Horizon
+          </span>
+          <h2 className="text-lg font-semibold text-foreground/70">Twilight Horizon — Dusk to Night / Starfield Full Template</h2>
+        </div>
+        <div className="rounded-2xl border border-violet-900/20"
+          style={{ height: 640, overflowY: "auto", overflowX: "hidden", transform: "translate(0)", position: "relative" }}>
+          <TwilightHorizon />
         </div>
       </div>
 
