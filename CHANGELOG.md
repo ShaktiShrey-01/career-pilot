@@ -1,3 +1,10 @@
+# [1.161.0](https://github.com/anurag3407/career-pilot/compare/v1.160.0...v1.161.0) (2026-06-05)
+
+
+### Features
+
+* add Vercel Deploy portfolio template ([fc0366a](https://github.com/anurag3407/career-pilot/commit/fc0366a8a542e6bf73448962380bd79f4fb6e64a))
+
 # [1.160.0](https://github.com/anurag3407/career-pilot/compare/v1.159.0...v1.160.0) (2026-06-05)
 
 
