@@ -1,3 +1,11 @@
+# [1.164.0](https://github.com/anurag3407/career-pilot/compare/v1.163.1...v1.164.0) (2026-06-06)
+
+
+### Features
+
+* add frontend performance monitoring utility ([187fa92](https://github.com/anurag3407/career-pilot/commit/187fa9274d9773a926ac14a8f4e88d271fa88349))
+* fixed eslint warnings ([4a42bfa](https://github.com/anurag3407/career-pilot/commit/4a42bfa74d986afa38848add98ace52ada183b36))
+
 ## [1.163.1](https://github.com/anurag3407/career-pilot/compare/v1.163.0...v1.163.1) (2026-06-05)
 
 
