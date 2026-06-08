@@ -4,6 +4,25 @@
   
 </div>
 
+  <!-- Primary stack -->
+  <p style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:8px 0;">
+    <img src="https://img.shields.io/badge/Node.js-20-green?logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-4.18-lightgrey?logo=express&logoColor=black" alt="Express" />
+    <img src="https://img.shields.io/badge/MongoDB-6.0-darkgreen?logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Redis-7.0-d9932e?logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Socket.IO-4-cyan?logo=socket.io&logoColor=white" alt="Socket.IO" />
+  </p>
+
+  <!-- Frontend & Infra -->
+  <p style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:6px 0 0 0;">
+    <img src="https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Vite-7.3.5-brightgreen?logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/TailwindCSS-4-skyblue?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Firebase-auth-orange?logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Cloudinary-Storage-4ea8ff?logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  </p>
+</div>
+
 ## Overview
 
 Career Pilot is a full-stack web application built to help job seekers and developers accelerate career readiness with AI-enhanced resume creation, interview preparation, job discovery, portfolio publishing, and real-time collaboration.
@@ -27,32 +46,6 @@ The project combines a React + Vite frontend with an Express backend, Firebase a
 - Real-time features with Socket.IO
 - Responsive UI with TailwindCSS and Framer Motion
 - Admin and community tools for job seekers and teams
-
-## Tech Snapshot
-
-<div align="center" style="max-width:900px; margin:12px auto;">
-  <p style="margin-bottom:10px; text-align:center; font-size:1.05rem; color:var(--text-color, #e6edf3);">
-    Career Pilot — full-stack web app combining modern frontend and backend tooling, realtime features, and AI integrations.
-  </p>
-
-  <!-- Primary stack -->
-  <p style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:8px 0;">
-    <img src="https://img.shields.io/badge/Node.js-20-green?logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-4.18-lightgrey?logo=express&logoColor=black" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-6.0-darkgreen?logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Redis-7.0-d9932e?logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/Socket.IO-4-cyan?logo=socket.io&logoColor=white" alt="Socket.IO" />
-  </p>
-
-  <!-- Frontend & Infra -->
-  <p style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:6px 0 0 0;">
-    <img src="https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/Vite-7.3.5-brightgreen?logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/TailwindCSS-4-skyblue?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Firebase-auth-orange?logo=firebase&logoColor=white" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Cloudinary-Storage-4ea8ff?logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  </p>
-</div>
 
 ## Workflow / How It Works
 
