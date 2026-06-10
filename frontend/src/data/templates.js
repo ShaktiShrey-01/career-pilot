@@ -483,9 +483,16 @@ export const templates = [
   },
 
   {
-    id: "zine-collage",
+    id: "ZineCollage",
     title: "Zine Collage",
-    category: "Brutalist",
+    category: "Portfolio",
+    colorScheme: "Colorful",
+    layout: "Grid",
+    author: "System",
+    views: 1200,
+    rating: 4.8,
+    image: "/template-previews/Zine_Collage.png",
+    createdAt: "2026-06-08",
     description: "An asymmetric, high-contrast scrapbook magazine layout featuring heavy ink borders, rotated clipping frames, and retro label-maker accents.",
     isComplete: true
   },
@@ -2618,19 +2625,7 @@ export const templates = [
   description: 'An interactive 404 error page wrapped in an infinite smoothly-looping background project showcase.'
   },
 
-  {
-  "id": "Pokemon_Pokedex_Classic",
-  "title": "Pokemon Pokedex Classic",
-  "category": "Portfolio",
-  "colorScheme": "Dark",
-  "layout": "Interactive",
-  "author": "System",
-  "views": 1135,
-  "rating": 4.7,
-  "image": "/template-previews/Pokemon_Pokedex_Classic.png",
-  "createdAt": "2026-06-08",
-  "isComplete": true
-},
+
 
   {
     "id": "Underground_Bunker_Console",

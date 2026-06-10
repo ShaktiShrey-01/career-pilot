@@ -151,27 +151,32 @@ export default function ResumeBuilder() {
       "Leadership",
       "Teamwork",
       "Problem Solving"
-    ];
+    ]
 
     const resumeText = `
       ${personal?.summary || ''}
       ${skills || ''}
       ${(projects || []).map(p => p.description || '').join(" ")}
       ${(experience || []).map(e => e.description || '').join(" ")}
-    `.toLowerCase();
+    `.toLowerCase()
 
     const foundKeywords = keywords.filter(keyword =>
       resumeText.includes(keyword.toLowerCase())
-    );
+    )
 
     const missing = keywords.filter(
       keyword => !foundKeywords.includes(keyword)
-    );
+    )
 
-    setMissingKeywords(missing);
-    setRecommendedSkills(missing.slice(0, 4));
-    setAtsScore(Math.round((foundKeywords.length / keywords.length) * 100));
-  }, [personal, skills, projects, experience]);
+    setMissingKeywords(missing)
+    setRecommendedSkills(missing.slice(0, 4))
+
+    if (keywords.length > 0) {
+      setAtsScore(
+        Math.round((foundKeywords.length / keywords.length) * 100)
+      )
+    }
+  }, [personal, skills, projects, experience])
 
   // ─────────────────── Live Consistency Memoized Engine ───────────────────
   const activeConsistencyWarnings = React.useMemo(() => {
