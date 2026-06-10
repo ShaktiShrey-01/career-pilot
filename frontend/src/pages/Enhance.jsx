@@ -618,33 +618,12 @@ export default function Enhance() {
 
       setEnhancementComplete(true)
 
-      try {
-        await resumeApi.createVersion(resumeId, {
-          title: `AI Enhanced for ${jobRole}`,
-          originalText: resume.originalText,
-          enhancedText: streamedResume,
-          jobRole: jobRole,
-          atsScore: atsAnalysis?.atsScore || null,
-          tags: ['AI-Enhanced', jobRole]
-        })
-      } catch (versionErr) {
-        console.error('Failed to save version snapshot:', versionErr)
-      }
-
-      toast.success('Resume enhanced successfully!')
-
-      triggerConfetti({
-        duration: 3000,
-        particleCount: 150,
-        spread: 120
-      })
-
-    } catch (error) {
-      console.error(error)
-      toast.error(error.message || 'Failed to enhance resume')
-    } finally {
-      setEnhancing(false)
-    }
+  } catch (error) {
+    console.error(error)
+    toast.error(error.message || 'Failed to enhance resume')
+  } finally {
+    setEnhancing(false)
+  }
   }
 
   const handleGeneratePortfolio = async () => {
