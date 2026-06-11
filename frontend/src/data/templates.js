@@ -1,4 +1,17 @@
 export const templates = [
+{
+  "id": "Astronaut_Spacesuit_Helmet_HUD",
+  "title": "Astronaut Spacesuit Helmet HUD",
+  "category": "Portfolio",
+  "colorScheme": "Dark",
+  "layout": "Interactive",
+  "author": "ShaktiShrey-01",
+  "views": 0,
+  "rating": 0,
+  "image": "/template-previews/Astronaut_Spacesuit_Helmet_HUD.png",
+  "createdAt": "2026-06-11",
+  "isComplete": true
+},
   {
     "id": "Magnifying_Glass_Hidden_Reveal",
     "title": "Magnifying Glass Hidden Reveal",
