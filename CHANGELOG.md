@@ -1,3 +1,10 @@
+# [1.220.0](https://github.com/anurag3407/career-pilot/compare/v1.219.0...v1.220.0) (2026-06-11)
+
+
+### Features
+
+* implement complete modular Dribbble Shots portfolio template [#1906](https://github.com/anurag3407/career-pilot/issues/1906) ([b724392](https://github.com/anurag3407/career-pilot/commit/b724392352906e7af22fc56325768c776c759d20))
+
 # [1.219.0](https://github.com/anurag3407/career-pilot/compare/v1.218.1...v1.219.0) (2026-06-11)
 
 
