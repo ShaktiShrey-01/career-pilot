@@ -1,5 +1,18 @@
 export const templates = [
   {
+    "id": "Tron_Legacy_Light_Grid",
+    "title": "Tron Legacy Light Grid",
+    "category": "Portfolio",
+    "colorScheme": "Dark",
+    "layout": "Interactive",
+    "author": "ShaktiShrey-01",
+    "views": 0,
+    "rating": 0,
+    "image": "/template-previews/Tron_Legacy_Light_Grid.png",
+    "createdAt": "2026-06-12",
+    "isComplete": true
+  },
+  {
   "id": "Virtual_Reality_Room_360",
   "title": "Virtual Reality Room 360",
   "category": "Portfolio",
