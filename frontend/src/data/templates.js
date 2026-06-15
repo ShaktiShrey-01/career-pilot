@@ -93,7 +93,9 @@ export const templates = [
   image: "/template-previews/Virtual_Reality_Room_360.png",
   createdAt: "2026-06-12",
   isComplete: true
-  "id": "Vercel_Deploy",
+  },
+  {
+  id: "Vercel_Deploy",
   "title": "Vercel Deploy",
   "category": "Portfolio",
   "colorScheme": "Dark",
@@ -225,7 +227,6 @@ export const templates = [
   createdAt: "2026-06-12",
   isComplete: true
 },
-,
   {
     "id": "Fluid_Simulation_3D_WebGL",
     "title": "Fluid Simulation 3D WebGL",
@@ -357,12 +358,6 @@ export const templates = [
     "createdAt": "2026-06-07",
     "isComplete": true
   },
-
-
-
-
-
-
   {
     "id": "Vercel_Deploy",
     "title": "Vercel Deploy",
