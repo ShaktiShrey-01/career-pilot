@@ -1,3 +1,10 @@
+## [1.244.1](https://github.com/anurag3407/career-pilot/compare/v1.244.0...v1.244.1) (2026-06-15)
+
+
+### Bug Fixes
+
+* remove duplicate Project Visualizer sidebar entry ([f377278](https://github.com/anurag3407/career-pilot/commit/f377278055a80ebc41f5b18db124ee8f7d7e8b3c))
+
 # [1.244.0](https://github.com/anurag3407/career-pilot/compare/v1.243.0...v1.244.0) (2026-06-15)
 
 
