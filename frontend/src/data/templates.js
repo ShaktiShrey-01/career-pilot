@@ -7,8 +7,8 @@ export const templates = [
     layout: "Interactive",
     author: "ShaktiShrey-01",
     views: 0,
-    rating: 5.0,
-    image: "/templates/Choose_Your_Fighter_Character_Select.png",
+    rating: 0,
+    image: "\template-previews\Choose_Your_Fighter_Character_Select.png",
     createdAt: "2026-06-15",
     isComplete: true
   },
