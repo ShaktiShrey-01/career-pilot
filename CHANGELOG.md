@@ -1,3 +1,15 @@
+# [1.243.0](https://github.com/anurag3407/career-pilot/compare/v1.242.0...v1.243.0) (2026-06-15)
+
+
+### Bug Fixes
+
+* **portfolio:** correct Cyber Security Red Team preview path ([b38bb39](https://github.com/anurag3407/career-pilot/commit/b38bb39f9e8fe17458fa512dca1dacab33dbc640))
+
+
+### Features
+
+* **portfolio:** add Cyber Security Red Team template ([4330a52](https://github.com/anurag3407/career-pilot/commit/4330a529a4cfba0a2b6cc5f216fdacb9f9edeb17))
+
 # [1.242.0](https://github.com/anurag3407/career-pilot/compare/v1.241.0...v1.242.0) (2026-06-14)
 
 
