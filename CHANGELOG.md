@@ -1,3 +1,10 @@
+## [1.246.1](https://github.com/anurag3407/career-pilot/compare/v1.246.0...v1.246.1) (2026-06-15)
+
+
+### Bug Fixes
+
+* theme variables, scrollbar cleanup, and glow effects in index.css ([4c7a80c](https://github.com/anurag3407/career-pilot/commit/4c7a80c2549d25c11c46e8c16a242e42ea422feb))
+
 # [1.246.0](https://github.com/anurag3407/career-pilot/compare/v1.245.0...v1.246.0) (2026-06-15)
 
 
