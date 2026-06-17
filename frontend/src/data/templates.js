@@ -1,4 +1,4 @@
-export const templates = [
+]export const templates = [
   {
     "id": "Text_to_Speech_Narrator_Drive",
     "title": "Text to Speech Narrator Drive",
