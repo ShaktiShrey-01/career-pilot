@@ -1,3 +1,10 @@
+# [1.255.0](https://github.com/anurag3407/career-pilot/compare/v1.254.0...v1.255.0) (2026-06-20)
+
+
+### Features
+
+* add job application success insights dashboard ([#4180](https://github.com/anurag3407/career-pilot/issues/4180)) ([80a9236](https://github.com/anurag3407/career-pilot/commit/80a9236e4949e27fa7769a093e4e20d5071dc68c))
+
 # [1.254.0](https://github.com/anurag3407/career-pilot/compare/v1.253.0...v1.254.0) (2026-06-20)
 
 
