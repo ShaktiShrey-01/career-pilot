@@ -31,6 +31,7 @@ import TextToResume from './pages/TextToResume';
 import About from './components/portfolio/templates/Tech_Startup/About';
 import ChatbotPortfolio from "./components/portfolio/templates/Chatbot_Portfolio";
 import GlassmorphismTemplate from "./components/portfolio/templates/Glassmorphism/index";
+import EndlessRunnerTemplate from './components/portfolio/templates/Endless_Runner_Minigame';
 
 import JobTracker from './pages/JobTracker';
 
@@ -310,7 +311,8 @@ function AppRoutes() {
         <Route path="/templates/duotone-bold" element={<DuotoneBold />} />
         <Route path="/templates/chromatic-glitch" element={<ChromaticGlitch />} />
         <Route path="/templates/swiss-typography" element={<SwissTypography />} />
-
+        <Route path="/portfolio/endless-runner" element={<EndlessRunnerTemplate />} />
+      
         <Route path="/templates/desert-dunes" element={<DesertDunes />} />
         <Route path="/templates/psychedelic-swirl" element={<PsychedelicSwirl />} />
         <Route path="/templates/memphis-pop" element={<MemphisPop />} />
