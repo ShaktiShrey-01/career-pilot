@@ -144,6 +144,7 @@ import SommelierWineCellarRacks from './components/portfolio/templates/Sommelier
 import MinimalDarkFluid from './components/portfolio/templates/Minimal_Dark_Fluid/index.jsx';
 import TerminalSkills from './components/portfolio/templates/Terminal_Skills/index.jsx';
 import ChiragChrgTheme from './components/portfolio/templates/ChiragChrg_Theme/index.jsx';
+import JigsawPuzzleAssembly from './components/portfolio/templates/Jigsaw_Puzzle_Assembly/index.jsx';
 import InspiredDevJadiya from "./components/portfolio/templates/Inspired_Dev_Jadiya";
 
 function LoadingScreen({ label }) {
@@ -337,6 +338,7 @@ function AppRoutes() {
         <Route path="/templates/minimal-dark-fluid" element={<MinimalDarkFluid />} />
         <Route path="/templates/terminal-skills" element={<TerminalSkills />} />
         <Route path="/templates/chiragchrg-theme" element={<ChiragChrgTheme />} />
+        <Route path="/templates/jigsaw-puzzle-assembly" element={<JigsawPuzzleAssembly />} />
         {/* Core Protected Routes */}
         <Route
           path="/dashboard"
