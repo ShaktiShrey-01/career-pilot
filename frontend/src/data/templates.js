@@ -1,5 +1,33 @@
 export const templates = [
   {
+    id: "Jigsaw_Puzzle_Assembly",
+    title: "Jigsaw Puzzle Assembly",
+    category: "Portfolio",
+    colorScheme: "Colorful",
+    layout: "Interactive",
+    author: "System",
+    views: 0,
+    rating: 0,
+    image: "/template-previews/Jigsaw_Puzzle_Assembly.png",
+    createdAt: "2026-06-24",
+    description: "A vibrant portfolio where big jigsaw pieces are assembled in the hero and scatter as you scroll down — rejoining as you scroll back up. Funky neon colours, unique interlocking shapes, and scroll-driven physics.",
+    isComplete: true
+  },
+  {
+    id: "Librarian_Dewey_Decimal_Card_Catalog",
+    title: "Librarian Dewey Decimal Card Catalog",
+    category: "Portfolio",
+    colorScheme: "Light",
+    layout: "Interactive",
+    author: "System",
+    views: 0,
+    rating: 0,
+    image: "/template-previews/Librarian_Dewey_Decimal_Card_Catalog.png",
+    createdAt: "2026-06-24",
+    description: "A retro library card-catalog portfolio where every section is a drawer of index cards — complete with Dewey Decimal stamps, typewriter fonts, and satisfying pull-out animations.",
+    isComplete: true
+  },
+  {
     id: "Bruno_Simon_Playground",
     title: "Bruno Simon Playground",
     category: "Portfolio",
@@ -3127,6 +3155,20 @@ rating: 4.8,
     "image": "/templates/Jigsaw_Puzzle_Assembly.svg",
     "createdAt": "2026-06-24",
     "isComplete": true
+  },
+  {
+    id: "Librarian_Dewey_Decimal_Card_Catalog",
+    title: "Librarian Dewey Decimal Card Catalog",
+    category: "Portfolio",
+    colorScheme: "Light",
+    layout: "Interactive",
+    author: "System",
+    views: 9999980,
+    rating: 5.0,
+    image: "/template-previews/Librarian_Dewey_Decimal_Card_Catalog.png",
+    createdAt: "2026-06-24",
+    description: "A premium archive-inspired portfolio that organizes your professional journey using the Dewey Decimal classification system — complete with catalog card drawers, animated index cards, brass accents, and a rich parchment aesthetic.",
+    isComplete: true
   }
 ];
 
