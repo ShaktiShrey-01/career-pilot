@@ -3114,6 +3114,19 @@ rating: 4.8,
   "image": "/templates/Cyber_Security_Red_Team.png",
   "createdAt": "2026-06-14",
   "isComplete": true
+  },
+  {
+    "id": "Jigsaw_Puzzle_Assembly",
+    "title": "Jigsaw Puzzle Assembly",
+    "category": "Portfolio",
+    "colorScheme": "Dark",
+    "layout": "Interactive",
+    "author": "Community",
+    "views": 0,
+    "rating": 0,
+    "image": "/templates/Jigsaw_Puzzle_Assembly.svg",
+    "createdAt": "2026-06-24",
+    "isComplete": true
   }
 ];
 
