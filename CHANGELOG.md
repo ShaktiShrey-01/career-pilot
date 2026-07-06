@@ -1,3 +1,10 @@
+# [1.268.0](https://github.com/anurag3407/career-pilot/compare/v1.267.3...v1.268.0) (2026-07-06)
+
+
+### Features
+
+* **templates:** add Hot Air Balloon Drifting portfolio template ([#3176](https://github.com/anurag3407/career-pilot/issues/3176)) ([#4285](https://github.com/anurag3407/career-pilot/issues/4285)) ([78826b6](https://github.com/anurag3407/career-pilot/commit/78826b69e2fe9834ae484f245f4a5c1581a4a5a0))
+
 # [1.1.0](https://github.com/homasvikaneria/career-pilot/compare/v1.0.0...v1.1.0) (2026-07-04)
 
 
