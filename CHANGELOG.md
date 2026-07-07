@@ -1,3 +1,10 @@
+# [1.269.0](https://github.com/anurag3407/career-pilot/compare/v1.268.0...v1.269.0) (2026-07-07)
+
+
+### Features
+
+* add AI chat panel and inline editor for portfolio enhancements ([464faf5](https://github.com/anurag3407/career-pilot/commit/464faf5a92b30fd7cd7606e6062f914919c98a6b))
+
 # [1.1.0](https://github.com/homasvikaneria/career-pilot/compare/v1.0.0...v1.1.0) (2026-07-06)
 
 
