@@ -1,4 +1,18 @@
 export const templates = [
+  {
+    id: "Space_Station_Cupola_Window",
+    title: "Space Station Cupola Window",
+    category: "Portfolio",
+    colorScheme: "Dark",
+    layout: "Immersive",
+    author: "ShaktiShrey-01",
+    views: 0,
+    rating: 0,
+    image: "/template-previews/Space_Station_Cupola_Window.png",
+    createdAt: "2026-07-01",
+    description: "Stand inside the ISS observation dome and gaze into deep space. Parallax star fields, drifting nebulae, orbital particles, and glassmorphic panels floating in the cosmos.",
+    isComplete: true
+  },
    {
     id: "Librarian_Dewey_Decimal_Card_Catalog",
     title: "Librarian Dewey Decimal Card Catalog",
